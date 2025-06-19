@@ -1,0 +1,7 @@
+{
+  "entrypoint": "main:app",
+  "graphs": {
+    "final": "main:app"
+  },
+  "dependencies": ["main.py"]
+}
